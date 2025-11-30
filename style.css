@@ -17,14 +17,14 @@ body{
     /* display */
     display: flex;
     align-items: center;
-    justify-content: space-around
+    justify-content: space-between
 ;
     flex-direction: column;
     gap: 10px;
 }
 
 .sidebar-1{
-    margin-top: -50px;
+    margin-top: 20px;
     width: 100%;
     display: flex;
     align-items: center;
@@ -33,7 +33,7 @@ body{
 }
 
 .sidebar-2{
-    margin-bottom: -50px;
+    margin-bottom: 20px;
     width: 100%;
     display: flex;
     align-items: center;
